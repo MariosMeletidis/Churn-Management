@@ -1,18 +1,11 @@
 Churn Management Project
 
-#Overview
+Overview
 
 This project focuses on analyzing and modeling customer churn data to develop effective retention strategies. It includes exploratory data analysis (EDA), churn risk prediction, and responsiveness modeling, leveraging machine learning techniques for actionable insights.
 
-Repository Structure
 
-churn-management/
-├── responsiveness_modeling.ipynb  # Notebook for modeling customer responsiveness
-├── churn_analysis.ipynb           # Notebook for EDA, churn risk prediction, and other analyses
-├── README.md                      # Project description
-└── requirements.txt               # List of dependencies
-
-#Notebooks
+Notebooks
 
 1. Responsiveness Modeling (ResponsivenessPrediction.ipynb)
 
