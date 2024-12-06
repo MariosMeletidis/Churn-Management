@@ -38,7 +38,7 @@ Getting Started
 
 	1.	Clone this repository:
 
-git clone https://github.com/yourusername/churn-management.git
+git clone https://github.com/MariosMeletidis/Churn-Management.git
 cd churn-management
 
 
